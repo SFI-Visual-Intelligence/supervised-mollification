@@ -1,3 +1,5 @@
+Paper: Robust Classification by Coupling Data Mollification with Label Smoothing ([Link](https://api.nva.unit.no/publication/019991c64133-c3e6c47e-c35d-442b-8d45-07d8e21d9869))
+
 # Robust Classification by Coupling Data Mollification with Label Smoothing
 
 Implementation of supervised mollification: couple image noising with label smoothing.
