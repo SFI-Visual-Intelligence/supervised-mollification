@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Robust Classification by Coupling Data Mollification with Label Smoothing"
+authors:
+  - family-names: Heinonen
+    given-names: Markus
+  - family-names: Tran
+    given-names: Ba-Hien
+  - family-names: Kampffmeyer
+    given-names: Michael
+  - family-names: Filippone
+    given-names: Maurizio
+year: 2025
+type: software
+url: "https://proceedings.mlr.press/v258/heinonen25a.html"
+identifiers:
+  - type: handle
+    value: "https://hdl.handle.net/11250/5209109"
+  - type: url
+    value: "https://nva.sikt.no/registration/019991c64133-c3e6c47e-c35d-442b-8d45-07d8e21d9869"
+abstract: "Implementation of supervised mollification for robust classification by coupling data mollification with label smoothing."
+keywords:
+  - robust classification
+  - mollification
+  - label smoothing
+  - pytorch
+  - aistats
